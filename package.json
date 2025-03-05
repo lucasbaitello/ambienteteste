@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.8.1",
     "next": "^15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
